@@ -12,6 +12,11 @@
 <p align="left" >
 Me chamo <b> Fábio Felipe</b>.
 </p>
+<a href="https://www.facebook.com/fabio.filipi.90/" target="_blank">
+  <img align="right" src="Fecebook.png" width="48px" height="48px">
+</a>
+
+
 
 
 <p align="left" >
@@ -24,7 +29,7 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
 **Meus interesses pessoais:**
 
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="400px" />
 
 - 👩‍💻 Estou estudando  **JAVASCRIPT** e utilizando o framework **Node.js**;
  
@@ -35,5 +40,3 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
   - Jogar;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para fabiolimadesenvolvedor@gmail.com
-
-

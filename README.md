@@ -12,12 +12,6 @@
 <p align="left" >
 Me chamo <b> Fábio Felipe</b>.
 </p>
-<a href="https://www.facebook.com/fabio.filipi.90/" target="_blank">
-  <img align="right" src="Fecebook.png" width="48px" height="48px">
-</a>
-
-
-
 
 <p align="left" >
 Atualmente moro em Recife/PE.<br />
@@ -40,3 +34,18 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
   - Jogar;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para fabiolimadesenvolvedor@gmail.com
+
+**Linguagens e ferramentas:**  
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
+</p>
+
+
+
+⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)

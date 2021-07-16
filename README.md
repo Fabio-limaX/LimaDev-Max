@@ -29,7 +29,9 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="" width="400px" />
+<img align="right" alt="GIF" src="" width="400px"![my-octocat](https://user-images.githubusercontent.com/84404364/126009314-32b7165e-a9f3-4112-b51c-68b3cdbe9f93.png)
+![Facebook](https://user-images.githubusercontent.com/84404364/126009345-d38baf88-2c9a-4910-bca7-690670a691a2.png)
+ />
 
 - 👩‍💻 Estou estudando  **JAVASCRIPT** e utilizando o framework **Node.js**;
  

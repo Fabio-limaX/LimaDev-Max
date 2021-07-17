@@ -25,9 +25,9 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="400px" />
 
-- 👩‍💻 Estou estudando  **JAVASCRIPT** e utilizando o framework **Node.js**;
+- 👨🏽‍💻 Estou estudando  **JAVASCRIPT** e utilizando o framework **Node.js**;
  
-- 💼 Sou Apaiconado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+- 💼 Sou Apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
   - Estudar;
   - Ler livros;
@@ -45,7 +45,4 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
 </p>
-
-
-
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)

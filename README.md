@@ -51,4 +51,7 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
 </p>
+  
+  ![Snake animation](https://github.com/LimaDev-Max/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)

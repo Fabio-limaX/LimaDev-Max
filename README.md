@@ -35,6 +35,12 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para fabiolimadesenvolvedor@gmail.com
 
+<div>
+        <a href=" https://github.com/LimaDev-Max">
+        <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LimaDev-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count= 16 & theme = Dark" />
+      </div>
+  
 **Linguagens e ferramentas:**  
 
 <p align="left">

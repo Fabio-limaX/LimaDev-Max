@@ -55,3 +55,5 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
   ![Snake animation](https://github.com/LimaDev-Max/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ Baseado em [Rafaella Ballerini](https://github.com/rafaballerini)
+

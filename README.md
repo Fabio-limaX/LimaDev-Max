@@ -1,4 +1,4 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<h1 align="center"> Welcome developers! </h1>
 <hr />
 <a href="https://github.com/LimaDev-Max" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -10,12 +10,12 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Me chamo <b> Fábio Felipe</b>.
+ My name is <b> Fábio Felipe</b>.
 </p>
 
 <p align="left" >
-Atualmente moro em Recife/PE.<br />
-E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
+I currently live in Recife/PE.<br />
+And I'm empowering myself to become a <b>Developer Full-Stack </b>.
 </p>
 <p align="left" >
 </p>
@@ -25,15 +25,15 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="400px" />
 
-- 👨🏽‍💻 Estou estudando  **JAVASCRIPT** e utilizando o framework **Node.js**;
+- 👨🏽‍💻 I am studying  **JAVASCRIPT** and using the framework **Node.js**;
  
-- 💼 Sou Apaixonado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar;
-  - Ler livros;
-  - Jogar;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para fabiolimadesenvolvedor@gmail.com
+- 💼 I'm Passionate about technology, for this reason I'm always studying and evolving in my career;
+- 👾 My hobbies are: 
+  - Studying;
+  - Read books;
+  - Play;
+- 💬 Feel free to call me, I'll be very happy to help;
+- 📫 If you want you can send an email to fabiolimadesenvolvedor@gmail.com
 
 <div>
         <a href=" https://github.com/LimaDev-Max">
@@ -41,7 +41,7 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count= 16 & theme = Dark" />
       </div>
   
-**Linguagens e ferramentas:**  
+**Languages ​​and Tools:**  
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -54,5 +54,5 @@ E estou me capacitando para me tornar um <b>Desenvolvedor Full-Stack </b>.
   
   ![Snake animation](https://github.com/LimaDev-Max/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
- E [Rafaella Ballerini](https://github.com/rafaballerini)
+⭐️ Based on [CallmeMehdi](https://github.com/CallmeMehdi)
+ and [Rafaella Ballerini](https://github.com/rafaballerini)

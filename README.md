@@ -24,7 +24,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 - 💼  Tenho paixão por tecnologia, por isso estou sempre estudando e evoluindo na minha carreira: 
   - Estudar;
   - ler Livros;
-  - Jogar Cod;
+  - Jogar;
 - 💬Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
 **Meus contatos :iphone:**
@@ -67,6 +67,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 ⭐️Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
  e [Rafaella Ballerini](https://github.com/rafaballerini)
+
 
 
   

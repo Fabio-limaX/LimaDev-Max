@@ -32,12 +32,24 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
   - ler Livros;
   - Jogar Cod;
 - 💬Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para fabiolimadesenvolvedor@gmail.com
+
+**Meus contatos :iphone:**
+
+<p align="center">
+    <a href="https://github.com/LimaDev-Max">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:fabiolimadesenvolvedor@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <div>
         <a href=" https://github.com/LimaDev-Max">
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LimaDev-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count= 16 & theme = Dark" />
+        <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count=16&theme=dracula" />
       </div>
   
 **Linguagens e ferramentas:**  
@@ -53,16 +65,14 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
   
   ![Snake animation](https://github.com/LimaDev-Max/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-⭐️Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
- e [Rafaella Ballerini](https://github.com/rafaballerini)
 
-
- 
-## Total de visitas no meu perfil :detective: <br>
+**Total de visitas no meu perfil :detective: <br>**
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/LimaDev-Max/count.svg" />
  </p>
 
+⭐️Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+ e [Rafaella Ballerini](https://github.com/rafaballerini)
   
  
 

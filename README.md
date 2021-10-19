@@ -1,14 +1,8 @@
 <h1 align="center"> Welcome developers! </h1>
-<hr />
-<a href="https://github.com/LimaDev-Max" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
+
 <p align="left" > 
   <b>Speech creators!</b>
 </p>
-<a href="https://www.instagram.com/felipe_0ficial/?hl=pt-br" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
 <p align="left" >
  Meu nome é <b> Fábio Felipe</b>.
 </p>
@@ -34,16 +28,13 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 - 💬Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
 **Meus contatos :iphone:**
-
-<p align="center">
-    <a href="https://github.com/LimaDev-Max">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
-    <a href="mailto:fabiolimadesenvolvedor@gmail.com">
-    </a>
+  
   <a href="https://www.instagram.com/felipe_0ficial/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fabiolimadesenvolvedor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/LimaDev-Max">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/LimaDev-Max">
   
 </p>
 
@@ -59,6 +50,8 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<img alt="Fabio-ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
@@ -74,6 +67,9 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 ⭐️Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
  e [Rafaella Ballerini](https://github.com/rafaballerini)
+
+
+  
   
  
 

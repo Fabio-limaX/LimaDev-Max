@@ -69,6 +69,27 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
 
+
+ name: gitartwork from a contribution graph
+on: 
+  push:
+  schedule:
+    - cron: '* */24 * * *'
+workflow_dispatch:
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jasineri/gitartwork@v1
+        with:
+           user_name: jasineri
+           text: JASINERI
+      - uses: jasineri/simple-push-action@v1
+
+
+
   
   
  

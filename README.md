@@ -76,6 +76,8 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 ⭐️Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
  e [Rafaella Ballerini](https://github.com/rafaballerini)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
  
  
 

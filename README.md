@@ -42,6 +42,11 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LimaDev-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count=16&theme=dracula" />
       </div>
+
+          🏆Troféus do GitHub
+<div  align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=LimaDev-Max&theme=nord&column=7" >
+</div>
   
 **Linguagens e ferramentas:**  
 

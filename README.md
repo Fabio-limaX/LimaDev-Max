@@ -1,5 +1,8 @@
 <h1 align="center"> Welcome developers! </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Programador;Apaixonado+Por+Desenvolvimento;Contente+Criador;Pessoa+Experiente+Em+Tecnologia;AQUI+É+BRASILL!!)](https://git.io/typing-svg)
+ 
+
 <p align="left" > 
   <b>Speech creators!</b>
 </p>
@@ -77,7 +80,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  e [Rafaella Ballerini](https://github.com/rafaballerini)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Programador;Apaixonado+Por+Desenvolvimento;Contente+Criador;Pessoa+Experiente+Em+Tecnologia;Aqui+é+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Programador;Apaixonado+Por+Desenvolvimento;Contente+Criador;Pessoa+Experiente+Em+Tecnologia;AQUI+É+BRASILL!!)](https://git.io/typing-svg)
  
  
 

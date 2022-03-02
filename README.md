@@ -77,7 +77,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  e [Rafaella Ballerini](https://github.com/rafaballerini)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Apaixonado+Desenvolvedor;Programador;Content+Creator/Writer;Tech-savvy+person+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Apaixonado+Por+Desenvolvimento;Programador;Content+Creator/Writer;Tech-savvy+person+from+Brazil)](https://git.io/typing-svg)
  
  
 

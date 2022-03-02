@@ -82,7 +82,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Thanks+for+the+visit!;Obrigado+Pela+Visita!;)](https://git.io/typing-svg)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Programador;Apaixonado+Por+Desenvolvimento;Contente+Criador;Pessoa+Experiente+Em+Tecnologia;AQUI+É+BRASILL!!)](https://git.io/typing-svg)
+ 
  
 
  

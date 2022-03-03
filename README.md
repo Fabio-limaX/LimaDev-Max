@@ -85,7 +85,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  
  
  
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula)
  
 
 

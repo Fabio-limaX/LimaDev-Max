@@ -5,7 +5,8 @@
 
 <p align="left" > 
   <b>Speech creators!</b>
-  <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200w.webp">
+  
+  <img align="right"  width="140" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200.webp">
 </p>
 <p align="left" >
  Meu nome é <b> Fábio Felipe</b>.
@@ -92,4 +93,3 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  e [Rafaella Ballerini](https://github.com/rafaballerini)
 
 
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200.webp">

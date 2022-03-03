@@ -46,8 +46,8 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count=16&theme=dracula" />
       </div>
 
-<a href="![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula)">
-     
+
+<img height = "180em" src = "![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula)" />
 
 **🏆Troféus do GitHub:**    
 <div  align="center">

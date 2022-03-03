@@ -44,7 +44,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/LimaDev-Max">
   
 </p>
-
+<hr />
 <div>
         <a href=" https://github.com/LimaDev-Max">
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LimaDev-Max&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -88,7 +88,4 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00ff00&center=true&vCenter=true&width=900&height=110&lines=Thanks+for+the+visit!;Obrigado+Pela+Visita!;)](https://git.io/typing-svg)
-
-
-
 

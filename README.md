@@ -88,3 +88,5 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  e [Rafaella Ballerini](https://github.com/rafaballerini)
 
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200w.webp">
+
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200.webp">

@@ -49,6 +49,8 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula" />
 
+<img height = "180em" src = "https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true" />
+
 **🏆Troféus do GitHub:**    
 <div  align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=LimaDev-Max&theme=nord&column=7" >

@@ -46,10 +46,12 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
         <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LimaDev-Max&layout=compact&langs_count=16&theme=dracula" />
       </div>
 
+<div  align="center">
+  <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula" />
 
-<img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula" />
+  <img height = "180em" src = "https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true" />
+</div>
 
-<img height = "180em" src = "https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true" />
 
 **🏆Troféus do GitHub:**    
 <div  align="center">

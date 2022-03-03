@@ -49,7 +49,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 <div  align="center">
   <img height = "180em" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula" />
 
-  <img height = "180em" src = "https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true" />
+  <img height = "200em" src = "https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true" />
 </div>
 
 

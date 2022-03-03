@@ -87,16 +87,3 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 ⭐️Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
  e [Rafaella Ballerini](https://github.com/rafaballerini)
 
-
-
- 
- 
- 
-
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true)
-
-
-  
-  
- 
-

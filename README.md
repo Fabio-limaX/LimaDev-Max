@@ -92,7 +92,5 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
 
-![](./profile-3d-contrib/profile-night-view.svg)
-
 
 

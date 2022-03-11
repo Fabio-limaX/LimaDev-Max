@@ -25,7 +25,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 **Meus interesses pessoais:**
 
-<img align="bottom" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="395px" />
+
 
 - 👨🏽‍💻 Estou estudando  **JAVASCRIPT** e usando o framework **Node.js**;
  
@@ -34,6 +34,8 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
   - ler Livros;
   - Jogar;
 - 💬Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
+
+<img align="" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="395px" />
 
 **Meus contatos :iphone:**
   

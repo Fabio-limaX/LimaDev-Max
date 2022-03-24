@@ -55,7 +55,6 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 <div  align="center">
   <img height = "250px" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LimaDev-Max&theme=dracula" />
 
-  <img height = "20%" src = "https://activity-graph.herokuapp.com/graph?username=LimaDev-Max&theme=dracula&hide_border=true&area=true" />
 </div>
 
 
@@ -97,7 +96,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  </p>
 
 <br><p align="center">
-<img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00ff00&center=true&vCenter=true&width=900&height=110&lines=Thanks+for+the+visit!;Obrigado+Pela+Visita!;)](https://git.io/typing-svg)
 

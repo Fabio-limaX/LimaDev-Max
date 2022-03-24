@@ -95,9 +95,9 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
    <img alingn="center" src="https://profile-counter.glitch.me/LimaDev-Max/count.svg" />
  </p>
 
- <img align="center"  width="140" src="https://github.com/LimaDev-Max/LimaDev-Max/blob/main/.github/giphy.gif?raw=true">
+ <img alingn="center"  width="140" src="https://github.com/LimaDev-Max/LimaDev-Max/blob/main/.github/giphy.gif?raw=true">
 
-<br><p align="center">
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00ff00&center=true&vCenter=true&width=900&height=110&lines=Thanks+for+the+visit!;Obrigado+Pela+Visita!;)](https://git.io/typing-svg)

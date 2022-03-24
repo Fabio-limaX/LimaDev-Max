@@ -60,8 +60,9 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
 **🏆Troféus do GitHub:**    
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=LimaDev-Max&theme=gruvbox&no-frame=true&margin-w=30&margin-h=7" />
+
+<div  align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=LimaDev-Max&theme=gruvbox&no-frame=true&margin-w=30&margin-h=7" />
 </div>
   
 **Linguagens e ferramentas:**  

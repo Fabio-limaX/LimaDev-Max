@@ -95,7 +95,9 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
    <img alingn="center" src="https://profile-counter.glitch.me/LimaDev-Max/count.svg" />
  </p>
 
- <img alingn="center"  width="140" src="https://github.com/LimaDev-Max/LimaDev-Max/blob/main/.github/giphy.gif?raw=true">
+ <div align="center">
+    <img alingn="center"  width="140" src="https://github.com/LimaDev-Max/LimaDev-Max/blob/main/.github/giphy.gif?raw=true">
+</div>
 
 
 

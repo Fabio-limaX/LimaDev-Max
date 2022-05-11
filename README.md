@@ -103,10 +103,3 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00ff00&center=true&vCenter=true&width=900&height=110&lines=Thanks+for+the+visit!;Obrigado+Pela+Visita!;)](https://git.io/typing-svg)
-
-
-
-
-eu sou o cara
-
-

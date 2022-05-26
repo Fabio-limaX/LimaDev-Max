@@ -107,6 +107,6 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
 
-eu sou o cara
+
 
 

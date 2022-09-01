@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome developers! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00ff00&center=true&vCenter=true&width=900&height=110&lines=Programador;Apaixonado+Por+Desenvolvimento;Contente+Criador;Pessoa+Experiente+Em+Tecnologia;AQUI+É+BRASILL!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=D42A2E&center=true&vCenter=true&width=900&height=110&lines=Programador;Apaixonado+Por+Desenvolvimento;Contente+Criador;Pessoa+Experiente+Em+Tecnologia;AQUI+É+BRASILL!!)](https://git.io/typing-svg)
  
 
 <p align="left" > 

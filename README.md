@@ -7,33 +7,7 @@
   <b>Speech creators!</b>
   
   <img align="right"  width="140" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200.webp">
-</p>
-<p align="left" >
- Meu nome é <b> Fábio Felipe</b>.
-</p>
 
-<p align="left" >
-Atualmente Moro em Recife/PE.<br />
-E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
-
-
-
-</p>
-<p align="left" >
-</p>
-<hr />
-
-**Meus interesses pessoais:**
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="395px" />
-
-- 👨🏽‍💻 Estou estudando  **JAVASCRIPT** e usando o framework **React**;
- 
-- 💼  Tenho paixão por tecnologia, por isso estou sempre estudando e evoluindo na minha carreira: 
-  - Estudar;
-  - ler Livros;
-  - Jogar;
-- 💬Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
 
 **Meus contatos :iphone:**
@@ -75,15 +49,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
   ![Snake animation](https://github.com/LimaDev-Max/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
-**Total de visitas no meu perfil :detective: <br>**
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/LimaDev-Max/count.svg" />
- </p>
-
- <div align="center">
-    <img alingn="center"  width="140" src="https://github.com/LimaDev-Max/LimaDev-Max/blob/main/.github/giphy.gif?raw=true">
-</div>
-
+ 
 
 
 
